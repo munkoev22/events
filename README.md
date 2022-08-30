@@ -1,3 +1,3 @@
 # olimp.local
 Информационная система для организации образовательных мероприятий для школьников
-events.bsu.ru
+<a href="events.bsu.eu">events.bsu.ru</a>
